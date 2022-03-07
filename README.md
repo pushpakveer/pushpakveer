@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+👨‍🎓I am a Third Year Computer Engineering student, currently studying in D. Y. Patil College Of Engineering, Akurdi, Pune.
+
 <!--
 **pushpakveer/pushpakveer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
