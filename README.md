@@ -1,6 +1,7 @@
 ## Hi, I am Pushpak Veer👋
 
 👨‍🎓I am a Third Year Computer Engineering student, currently studying at D. Y. Patil College Of Engineering, Akurdi, Pune.
+🔭 I’m currently working on my development skills.
 
 <!--
 **pushpakveer/pushpakveer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
