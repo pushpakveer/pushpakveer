@@ -4,8 +4,8 @@
 
 🔭 I’m currently working on my development skills.
 
-🌱 I’m currently learning..
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpakveer&theme=radical)
 
 
 
