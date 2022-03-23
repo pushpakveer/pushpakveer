@@ -5,7 +5,7 @@
 🔭 I’m currently working on my development skills.
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpakveer&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpakveer&theme=orange)
 
 
 
