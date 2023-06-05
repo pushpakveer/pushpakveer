@@ -7,6 +7,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpakveer&theme=radical)
 
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=pushpakveer&color=green)
+
+
 
 
 <!--
